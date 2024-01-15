@@ -30,7 +30,7 @@ import io
 import logging
 
 bot = Client("bot",
-             bot_token= "6756823663:AAFVW3NDF0EB2UsTarqMxVqi0g5_ZjXXs3o",
+             bot_token= "6334241757:AAHo1iSa_LcjP6jbbEO-Wz1H8wp9Oj9tZSk",
              api_id= 20225480,
              api_hash= "70f93c98c61a40f69c0f830bd4fece7c")
 
